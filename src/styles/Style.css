@@ -1,0 +1,30 @@
+.ContainerH2{
+    background-color: rgb(17, 20, 45);
+    border-color: rgb(90, 99, 127);
+    border-width: 1rem;
+    padding: 10px 10px 5px;
+}
+
+.H2-VF{
+    display: flex;
+    justify-content: center;
+    color: rgb(179, 166, 238);
+}
+
+.vinylForm {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  padding: 10px 50px 20px;
+  background-color: rgb(145, 152, 169);
+}
+
+.vinylForm input,
+.vinylForm select,
+.vinylForm button {
+  margin-bottom: 1.2rem;
+  padding: 5px 20px 5px;
+  border-color: rgb(17, 17, 45);
+  border-width: 0.4rem;
+  border-radius: 0.5rem;
+}
